@@ -1,0 +1,24 @@
+1
+John MerryWeather
+123 West Main Street
+5.00 30
+2
+Andrew Buttons
+17 East Riverview Drive
+12.00 40
+3
+Martha Washington
+1 Mount Vernon Lane
+7.25 20
+4
+Harry Skilling
+786 No. Rodeo Drive
+8.00 45
+5
+Ann Mindbender
+192 Wizard Street
+9.00 40
+6
+Carl Zabriskie
+42 No. State Street
+10.50 42
